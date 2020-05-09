@@ -1,2 +1,2 @@
 # MeditationApp
-Meditation App - Application with Javascript, HTML and CSS
+Meditation App - In Javascript, HTML and CSS
